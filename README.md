@@ -14,4 +14,4 @@ Perfect for preparing clean, lightweight headless Docker hosts.
 You can execute the script directly from this repository without cloning it manually:
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/livemike78/ubuntu-purge-snap/main/purge-snap.sh](https://raw.githubusercontent.com/livemike78/ubuntu-purge-snap/main/purge-snap.sh) | sudo bash
+curl -sSL https://raw.githubusercontent.com/livemike78/ubuntu-purge-snap/main/purge-snap.sh | sudo bash
